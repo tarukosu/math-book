@@ -11,6 +11,8 @@
    * [条件を理解する](chapter2/read.md)
    * [解を知る](chapter2/answer.md)
 * [Chapter3](chapter3/README.md)
+   * [pattern](chapter3/pattern.md)
+   * [try](chapter3/try.md)
 * [Chapter4](chapter4/README.md)
    * [proof](chapter4/proof.md)
    * [proof2](chapter4/proof2.md)
