@@ -1,10 +1,4 @@
----
-layout: post
-title: "論理のミスの防ぎ方"
-date: 2014-03-11 18:28:35 +0900
-comments: true
-categories: [study, math]
----
+##論理のミスの防ぎ方
 
 前回までは，ケアレスミスの防ぎ方について書いてきました．
 
