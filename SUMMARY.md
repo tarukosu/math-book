@@ -28,8 +28,8 @@
    * [次元法](chapter5/dimension.md)
    * [単位法](chapter5/unit.md)
 * [次へと活かす](chapter6/README.md)
-   * [point](chapter6/point.md)
-   * [formula](chapter5/formula.md)
+   * [パターンを覚える](chapter6/point.md)
+   * [formula](chapter6/formula.md)
 * [その他のトピックス](chapter7/README.md)
    * [おすすめ勉強法（教科書の読み方）](chapter7/book.md)
 
