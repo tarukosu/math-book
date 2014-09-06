@@ -29,3 +29,10 @@
 ### この本に対するご意見
 　この本に対する，意見・感想・質問などは tarukosu0(アットマーク)gmail.com にお寄せください．
 
+### この本のライセンスについて
+　著作権並びにコンテンツに関する一切の権利は、全て著者であるtarukosuに帰属します。
+
+copyright (C) 2014 tarukosu. All rights reserved.
+
+
+
