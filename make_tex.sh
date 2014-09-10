@@ -29,3 +29,4 @@ do
 
 done
 make
+cp main.pdf 現役東大院生が教える高校数学の考え方.pdf
