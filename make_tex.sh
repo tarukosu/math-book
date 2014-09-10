@@ -25,5 +25,7 @@ do
     sed -i 's/\\\[/\\begin{eqnarray*}/g' $i
     sed -i 's/\\\]/\\end{eqnarray*}/g' $i
 
+    sed -i 's/\\href{https:\/\/twitter.com\/tarukosu}{@tarukosu}/@tarukosu/g' $i
+
 done
 make
