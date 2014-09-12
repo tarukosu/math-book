@@ -32,4 +32,5 @@
    * [公式を覚える](chapter6/formula.md)
 * [その他のトピックス](chapter7/README.md)
    * [おすすめ勉強法（教科書の読み方）](chapter7/book.md)
+* [おわりに](last/README.md)
 
