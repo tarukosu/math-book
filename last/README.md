@@ -4,7 +4,7 @@
 皆さんの意見や感想をいただけるのをとても楽しみにしています．
 gitbook のレビュー欄にも，お気軽に感想を書いてみてください．
 
-- email: tarukosu0(アットマーク)gmail.com
+- email: tarukosu0@gmail.com
 - twitter: [@tarukosu](https://twitter.com/tarukosu)
 - gitbook: [gitbookレビュー](https://www.gitbook.io/book/tarukosu/mathbook/reviews)
 

@@ -33,7 +33,7 @@
 ### この本に対するご意見
 　この本もしくは筆者に対するご意見・ご感想・ご質問などがありましたら，emailまたはtwitterでお送りください．面白かった，よくわからなかった，など一言だけでもいいので，感想を聞かせていただけるととても嬉しいです．よろしくお願いします．
 
-- email: tarukosu0(アットマーク)gmail.com
+- email: tarukosu0@gmail.com
 - twitter: [@tarukosu](https://twitter.com/tarukosu)
 
 ### この本のライセンスについて
