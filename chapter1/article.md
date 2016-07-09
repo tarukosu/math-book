@@ -1,4 +1,6 @@
+<!--
 1.1 用語の定義 -元東大生が教える高校数学の考え方-
+-->
 
 まず始めに、本書で用いる用語の定義をしておきます。
 本来の定義とは異なる可能性があるので注意してください。
@@ -21,21 +23,26 @@
 
 具体例を挙げてみます。
 
-問題： [tex:{x^2 + 2x + 1 = 0}] を満たす [tex:x] を求めよ  
+問題： $$x^2 + 2x + 1 = 0$$ を満たす $$x$$ を求めよ  
 に対する解答は次のようになります。
 
-
-[tex:{ \\displaystyle
-\\begin{align}
-x^2 + 2x + 1 &= 0\\\\
-(x + 1)^2 &= 0\\\\
-x = -1
-\end{align}}]
+$$
+\begin{align}
+x^2 + 2x + 1 &= 0\\
+(x + 1)^2 &= 0\\
+x &= -1
+\end{align}
+$$
 
 
 また、解は次のようになります。
 
-[tex:{ \\displaystyle
-\\begin{align}
- x = -1 
- \end{align}}]
+$$
+\begin{align}
+x = -1 
+\end{align}
+ $$
+
+[前: 1. 数学とは](http://tarukosu.hatenablog.com/entry/2016/07/08/125941)  
+[次: 1.2 数学は簡単？](http://tarukosu.hatenablog.com/entry/2016/07/08/172036)  
+[目次 -元東大生が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
