@@ -21,4 +21,5 @@
 
 
 [前: 2.1 条件を理解する](http://tarukosu.hatenablog.com/entry/2016/07/09/182630)  
+[次: 3. 計画を立てる](http://tarukosu.hatenablog.com/entry/2016/07/24/174517)  
 [目次 -東大卒が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
