@@ -1,22 +1,31 @@
-##同値を意識する
-　前節では**解と問題は同値なもの**であることを説明しました。この節では問題を解いていく過程で同値を意識すれば、問題が解きやすくなることについて説明します。
+<!--
+3.5 同値を意識する -東大卒が教える高校数学の考え方-
+-->
+　前節では**解と問題は同値なもの**であることを説明しました。
+この節では問題を解いていく過程で同値を意識すれば、問題が解きやすくなることについて説明します。
 
 　問題の条件をいくつかに分解できる場合があります。
 
 　例として以下のような問題を考えます。
+
 $$
-関数~~y=ax^2+bx+c~~が\\
-点(0,1), (1,6) ,(2,15)~を通るとき、\\
+関数 ~~ y=ax^2+bx+c ~~ が\\
+点(0,1), (1,6) ,(2,15) ~ を通るとき、\\
 a,b,c~ の値を求めよ
 $$
 
 　この場合、問題の条件は、以下の4つに分割できます。
+
+TODO
+(0, 1) y=ax^x + は(0,1 )　を通る
+TODO
+
 $$
 \begin{aligned}
-\mathrm{i}.&~~ y=ax^2+bx+c\\
-\mathrm{ii}.&~~ x=0,~y=1\\
-\mathrm{iii}.&~~ x=1,~y=6\\
-\mathrm{iv}.&~~ x=2,~y=15
+\mathrm{i}.& ~~ y=ax^2+bx+c\\
+\mathrm{ii}.& ~~ x=0,~y=1\\
+\mathrm{iii}.& ~~ x=1,~y=6\\
+\mathrm{iv}.& ~~ x=2,~y=15
 \end{aligned}
 $$
 
@@ -27,15 +36,15 @@ $$
 
 $$
 \begin{aligned}
-\mathrm{i}.&~~ y=ax^2+bx+c\\
-\mathrm{ii}.&~~ x=0,~y=1\\
+\mathrm{i}.& ~~ y=ax^2+bx+c\\
+\mathrm{ii}.& ~~ x=0,~y=1\\
 &\iff\\
-\mathrm{i'}.&~~ y=ax^2+bx+1\\
-\mathrm{ii'}.&~~c=1
+\mathrm{i'}.& ~~ y=ax^2+bx+1\\
+\mathrm{ii'}.& ~~c=1
 \end{aligned}
 $$
 
-と変形できます。このとき、$$\mathrm{i}, \mathrm{ii}, \mathrm{iii}, \mathrm{iv}$$を考える代わりに $$\mathrm{i'}, \mathrm{ii'}, \mathrm{iii}, \mathrm{iv}$$ を考えればよいということです。
+と変形できます。このとき、$$ \mathrm{i}, \mathrm{ii}, \mathrm{iii}, \mathrm{iv}$$を考える代わりに $$\mathrm{i'}, \mathrm{ii'}, \mathrm{iii}, \mathrm{iv}$$ を考えればよいということです。
 
 　$$\mathrm{i'}, \mathrm{ii'}, \mathrm{iii}, \mathrm{iv}$$ に対して、$$\mathrm{i}$$ や $$\mathrm{ii}$$ の条件を考えても意味はありません。例えば、$$\mathrm{i'}$$ に $$x=0,~y=1$$ を代入しても $$1=1$$ となってしまいます。
 
