@@ -15,10 +15,10 @@ done
 #sed -i -e "s/\\\\end/\\\\\\\\end/g" $filename.md.tmp
 sed -i -e "s/\\\\\$/\\\\\\\\\\\\/g" $filename.md.tmp
 sed -i -e "s/\\\\/\\\\\\\\/g" $filename.md.tmp
+sed -i -e "s/\^/carret/g" $filename.md.tmp
 cat $filename.md.tmp
 
 
 pandoc "${filename}.md.tmp" -o "${filename}.html" && sed -i -e "s/\&amp\;/\&/g" "${filename}.html"
-
-
+sed -i -e "s/carret/\^/g" $filename.html
 
