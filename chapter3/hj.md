@@ -93,3 +93,6 @@ $$
 
 　以上の説明がよくわからなかった場合には、$$p $$ に $$x=1$$ , $$q $$ に $$x^2=1$$ といった、具体的な式を当てはめて考えてみてください。
 
+[前: 3.2 試してみる](http://tarukosu.hatenablog.com/entry/2016/07/24/181906)  
+[次: 3.4 必要×十分](http://tarukosu.hatenablog.com/entry/2016/07/24/221526)  
+[目次 -東大卒が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
