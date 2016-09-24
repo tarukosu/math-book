@@ -48,5 +48,6 @@ $$
 
 
 [前: 5.5 次数法](http://tarukosu.hatenablog.com/entry/2016/09/23/220704)    
+[次: 6. 次へと活かす](http://tarukosu.hatenablog.com/entry/2016/09/24/092415)    
 [目次 -東大卒が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
 
