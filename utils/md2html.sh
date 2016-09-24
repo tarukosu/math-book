@@ -1,6 +1,11 @@
 #filename="mistake"
 filename=$1
-sed -e "s/\\$\\$\(\\\\[^$]*\)\\$\\$/[tex:{\\\\\1}]/g" $filename.md > $filename.md.tmp
+cp $filename.md $filename.md.tmp
+#sed -i -e "s/\[/\\\[/g" $filename.md.tmp
+#sed -i -e "s/\]/\\\]/g" $filename.md.tmp
+sed -i -e "s/\[\([^]]*mathrm[^]]*\)\]/\\\[\1\\\]/g" $filename.md.tmp
+
+sed -i -e "s/\\$\\$\(\\\\[^$]*\)\\$\\$/[tex:{\\\\\1}]/g" $filename.md.tmp
 sed -i -e "s/\\$\\$\([^$]*\)\\$\\$/[tex:{\1}]/g" $filename.md.tmp
 cat $filename.md.tmp
 loop_num=$(cat ${filename}.md.tmp | grep -o \\$\\$ | wc -l)
@@ -16,6 +21,7 @@ done
 sed -i -e "s/\\\\\$/\\\\\\\\\\\\/g" $filename.md.tmp
 sed -i -e "s/\\\\/\\\\\\\\/g" $filename.md.tmp
 sed -i -e "s/\^/carret/g" $filename.md.tmp
+
 cat $filename.md.tmp
 
 
