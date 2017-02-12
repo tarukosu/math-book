@@ -1,5 +1,7 @@
 #filename="mistake"
 filename=$1
+echo $filename
+cat $filename.md
 sed -e "s/\\$\\$\(\\\\[^$]*\)\\$\\$/[tex:{\\\\\1}]/g" $filename.md > $filename.md.tmp
 sed -i -e "s/\\$\\$\([^$]*\)\\$\\$/[tex:{\1}]/g" $filename.md.tmp
 cat $filename.md.tmp
@@ -18,7 +20,7 @@ sed -i -e "s/\\\\/\\\\\\\\/g" $filename.md.tmp
 sed -i -e "s/\^/carret/g" $filename.md.tmp
 cat $filename.md.tmp
 
-
 pandoc "${filename}.md.tmp" -o "${filename}.html" && sed -i -e "s/\&amp\;/\&/g" "${filename}.html"
+rm ${filename}.md.tmp
 sed -i -e "s/carret/\^/g" $filename.html
 
