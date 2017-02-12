@@ -1,5 +1,6 @@
+<!--
 はじめに -元東大生が教える高校数学の考え方-
-
+-->
 # このブログについて
 　このブログは以前GitBookで公開した「現役東大院生が教える高校数学の考え方」という本の内容に加筆修正を行ったものです。
 GitBookでは数式が表示されなくなってしまったため、こちらのブログに移行することにしました。
@@ -43,4 +44,19 @@ GitBookでは数式が表示されなくなってしまったため、こちら�
 
 - email: tarukosu0@gmail.com
 - twitter: [@tarukosu](https://twitter.com/tarukosu)
+
+
+
+<!--
+### この本のライセンスについて
+　著作権並びにコンテンツに関する一切の権利は、全て著者であるtarukosuに帰属します。
+
+　copyright (C) 2016- tarukosu. All rights reserved.
+
+
+-->
+
+
+[次: 1. 数学とは](http://tarukosu.hatenablog.com/entry/2016/07/08/125941)  
+[目次 -東大卒が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
 
