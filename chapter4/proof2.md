@@ -64,6 +64,6 @@ $$
 また、逆に自分の解答を読んでもらうことで、そのような部分を教えてもらえるでしょう。
 
 [前: 4.1 証明（解答）の書き方](http://tarukosu.hatenablog.com/entry/2016/09/23/122753)    
-[次: ]()  
+[次: 5. 間違いに気づく](http://tarukosu.hatenablog.com/entry/2016/09/23/170642)  
 [目次 -東大卒が教える高校数学の考え方-](http://tarukosu.hatenablog.com/entry/2016/07/08/123511)  
 
