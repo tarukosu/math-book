@@ -1,3 +1,3 @@
 # Summary
 
-* [はじめに](README.md)
+* [サイト移行のお知らせ](README.md)
